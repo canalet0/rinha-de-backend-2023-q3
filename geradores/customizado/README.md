@@ -1,0 +1,3 @@
+# Requisitos
+
+python >= 3.11.4
